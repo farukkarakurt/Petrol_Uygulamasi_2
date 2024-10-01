@@ -1,0 +1,10 @@
+C:\Users\faruk\source\repos\Petrol_Akaryakit_Uygulamasi_V2\Petrol_Akaryakit_Uygulamasi_V2\bin\Debug\Petrol_Akaryakit_Uygulamasi_V2.exe.config
+C:\Users\faruk\source\repos\Petrol_Akaryakit_Uygulamasi_V2\Petrol_Akaryakit_Uygulamasi_V2\bin\Debug\Petrol_Akaryakit_Uygulamasi_V2.exe
+C:\Users\faruk\source\repos\Petrol_Akaryakit_Uygulamasi_V2\Petrol_Akaryakit_Uygulamasi_V2\bin\Debug\Petrol_Akaryakit_Uygulamasi_V2.pdb
+C:\Users\faruk\source\repos\Petrol_Akaryakit_Uygulamasi_V2\Petrol_Akaryakit_Uygulamasi_V2\obj\Debug\Petrol_Akaryakit_Uygulamasi_V2.csproj.AssemblyReference.cache
+C:\Users\faruk\source\repos\Petrol_Akaryakit_Uygulamasi_V2\Petrol_Akaryakit_Uygulamasi_V2\obj\Debug\Petrol_Akaryakit_Uygulamasi_V2.Form1.resources
+C:\Users\faruk\source\repos\Petrol_Akaryakit_Uygulamasi_V2\Petrol_Akaryakit_Uygulamasi_V2\obj\Debug\Petrol_Akaryakit_Uygulamasi_V2.Properties.Resources.resources
+C:\Users\faruk\source\repos\Petrol_Akaryakit_Uygulamasi_V2\Petrol_Akaryakit_Uygulamasi_V2\obj\Debug\Petrol_Akaryakit_Uygulamasi_V2.csproj.GenerateResource.cache
+C:\Users\faruk\source\repos\Petrol_Akaryakit_Uygulamasi_V2\Petrol_Akaryakit_Uygulamasi_V2\obj\Debug\Petrol_Akaryakit_Uygulamasi_V2.csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\Petrol_Akaryakit_Uygulamasi_V2\Petrol_Akaryakit_Uygulamasi_V2\obj\Debug\Petrol_Akaryakit_Uygulamasi_V2.exe
+C:\Users\faruk\source\repos\Petrol_Akaryakit_Uygulamasi_V2\Petrol_Akaryakit_Uygulamasi_V2\obj\Debug\Petrol_Akaryakit_Uygulamasi_V2.pdb
